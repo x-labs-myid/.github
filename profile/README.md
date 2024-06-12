@@ -2,6 +2,9 @@
 
 X-LABS.my.id is an innovative organization focused on developing mobile applications, specifically for the Android platform. Founded with a passion for pushing technological boundaries and providing high-quality digital solutions, X-LABS.my.id has built a reputation as one of the leading app creators on the Google Play Store.
 
+## Tagline
+A simple open source Android app, made with ❤️ and specially brought to you.
+
 ## Vision and Mission
 ### Vision: 
 To be a pioneer in developing applications that simplify everyday life and provide added value for users worldwide.
@@ -29,6 +32,9 @@ The X-LABS.my.id team consists of talented professionals with expertise in vario
 # Bahasa
 
 X-LABS.my.id adalah sebuah organisasi inovatif yang berfokus pada pengembangan aplikasi mobile, khususnya untuk platform Android. Didirikan dengan semangat untuk mendorong batasan teknologi dan memberikan solusi digital yang berkualitas tinggi, X-LABS.my.id telah membangun reputasi sebagai salah satu pembuat aplikasi terkemuka di Google Play Store.
+
+## Tagline
+Aplikasi Android open source sederhana, dibuat dengan ❤️ dan dipersembahkan khusus untuk Anda.
 
 ## Visi dan Misi
 ### Visi: 
