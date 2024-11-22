@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/x-labs-86/hosting-assets/main/x-labs/branding/mobile-size/icon-v2-transformed.png" height="74" />
+<img src="https://avatars.githubusercontent.com/u/137455134?s=200&v=4" height="74" />
 
 X-LABS.my.id is an innovative organization focused on developing mobile applications, specifically for the Android platform. Founded with a passion for pushing technological boundaries and providing high-quality digital solutions, X-LABS.my.id has built a reputation as one of the leading app creators on the Google Play Store.
 
