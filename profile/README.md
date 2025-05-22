@@ -1,10 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/137455134?s=200&v=4" height="128" />
-
-# 🌟 X-LABS | my.id 🌟
-
-> *A simple open source Android app, made with ❤️ and specially brought to you.*
-
-### Welcome to our organization! 
+## Welcome to our organization! 
 
 We are a team of passionate developers dedicated to building **simple**, **open-source**, and **high-quality** Android apps. Our mission is to create technology that is **accessible** and **useful** for everyone.
 
@@ -28,7 +22,7 @@ Thank you for visiting our organization page! 🌈
 <details>
   <summary>🇮🇩 Indonesia</summary>
 
-  ### Selamat datang di organisasi kami!
+  ## Selamat datang di organisasi kami!
 
   Kami adalah sekelompok pengembang yang berdedikasi untuk menciptakan aplikasi Android **sederhana**, **terbuka**, dan **berkualitas tinggi**.  
   Misi kami adalah membuat teknologi yang **mudah diakses** dan **bermanfaat** untuk semua orang.
