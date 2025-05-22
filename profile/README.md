@@ -8,12 +8,6 @@
 
 We are a team of passionate developers dedicated to building **simple**, **open-source**, and **high-quality** Android apps. Our mission is to create technology that is **accessible** and **useful** for everyone.
 
-### 🚀 What We Do
-- 🔧 Develop open-source Android apps
-- 🌐 Collaborate with the global developer community
-- 🧪 Experiment with the latest Android technologies
-- 📱 Promote clean and efficient development practices
-
 ### 📂 Featured Projects
 - [`Buku Kasbon`](https://play.google.com/store/apps/details?id=com.kang.cahya.apps.bukukasbon) – An offline credit/debt tracking app for small businesses, kiosks, and shops.
 - [`MyKBBI`](https://play.google.com/store/apps/details?id=com.kang.cahya.apps.mykbbi) – An Indonesian Dictionary (KBBI) app
@@ -38,12 +32,6 @@ Thank you for visiting our organization page! 🌈
 
   Kami adalah sekelompok pengembang yang berdedikasi untuk menciptakan aplikasi Android **sederhana**, **terbuka**, dan **berkualitas tinggi**.  
   Misi kami adalah membuat teknologi yang **mudah diakses** dan **bermanfaat** untuk semua orang.
-
-  #### 🚀 Apa yang Kami Lakukan
-  - 🔧 Mengembangkan aplikasi Android open-source  
-  - 🌐 Berkolaborasi dengan komunitas developer global  
-  - 🧪 Bereksperimen dengan teknologi Android terbaru  
-  - 📱 Mendorong praktik pengembangan yang bersih dan efisien  
 
   #### 📂 Proyek Unggulan
   - [Buku Kasbon](https://play.google.com/store/apps/details?id=com.kang.cahya.apps.bukukasbon) – Aplikasi pencatatan kasbon offline untuk UMKM, warung, atau toko kecil.
