@@ -1,21 +1,26 @@
-## Welcome to our organization! 
+<details open>
+  <summary>🇺🇸 English</summary>
+  
+  ## Welcome to our organization! 
+  
+  We are a team of passionate developers dedicated to building **simple**, **open-source**, and **high-quality** Android apps. Our mission is to create technology that is **accessible** and **useful** for everyone.
+  
+  ### 📂 Featured Projects
+  - [`Buku Kasbon`](https://play.google.com/store/apps/details?id=com.kang.cahya.apps.bukukasbon) – An offline credit/debt tracking app for small businesses, kiosks, and shops.
+  - [`MyKBBI`](https://play.google.com/store/apps/details?id=com.kang.cahya.apps.mykbbi) – An Indonesian Dictionary (KBBI) app
+  
+  > Check out all our apps on [Google Play Store](https://play.google.com/store/apps/dev?id=8941046243892038548).
+  
+  ### 📫 Contact Us
+  For inquiries or collaboration, feel free to reach out:
+  - 📧 Email: [kangcahyakeren@gmail.com]
+  - 💬 Discussions: [GitHub Discussions](https://github.com/orgs/x-labs-myid/discussions)
+  
+  
+  Thank you for visiting our organization page! 🌈  
+  **Let’s build something amazing — together! 🙌**
 
-We are a team of passionate developers dedicated to building **simple**, **open-source**, and **high-quality** Android apps. Our mission is to create technology that is **accessible** and **useful** for everyone.
-
-### 📂 Featured Projects
-- [`Buku Kasbon`](https://play.google.com/store/apps/details?id=com.kang.cahya.apps.bukukasbon) – An offline credit/debt tracking app for small businesses, kiosks, and shops.
-- [`MyKBBI`](https://play.google.com/store/apps/details?id=com.kang.cahya.apps.mykbbi) – An Indonesian Dictionary (KBBI) app
-
-> Check out all our apps on [Google Play Store](https://play.google.com/store/apps/dev?id=8941046243892038548).
-
-### 📫 Contact Us
-For inquiries or collaboration, feel free to reach out:
-- 📧 Email: [kangcahyakeren@gmail.com]
-- 💬 Discussions: [GitHub Discussions](https://github.com/orgs/x-labs-myid/discussions)
-
-
-Thank you for visiting our organization page! 🌈  
-**Let’s build something amazing — together! 🙌**
+</details>
 
 ---
 
